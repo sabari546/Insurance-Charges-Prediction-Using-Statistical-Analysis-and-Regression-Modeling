@@ -54,4 +54,7 @@ Compute the 95% confidence interval for the average insurance charge, providing 
 
 ### Conclusion
 Summarize the findings from the analysis, including key insights about the relationship between the independent variables and insurance charges, the effectiveness of the predictive model, and potential areas for future research.
+![Screenshot 2024-11-03 233034](https://github.com/user-attachments/assets/f8e178c0-3467-4fb1-bfe0-b73a0f249e27)
 
+![Screenshot 2024-11-03 233011](https://github.com/user-attachments/assets/84cfec7b-11cc-48dc-bb6d-470d27f2f620)
+![Screenshot 2024-11-03 232945](https://github.com/user-attachments/assets/66594e78-7228-48c4-8db4-0eb5343d245e)
